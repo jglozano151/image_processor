@@ -1,7 +1,7 @@
 # Python ppm Image Processor 
 This program performs a range of functions that edit ppm images. 
 
-# Main Functions 
+### Main Functions 
 read_file(file): 
   returns a dictionary of file attributes (ppm encoding, # of columns and rows, max color value, and the pixels)
  
